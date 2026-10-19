@@ -1,0 +1,1916 @@
+[
+  {
+    "id": "princeton-university",
+    "collegeName": "Princeton University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New Jersey",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 56010,
+    "avgCostAfterAid": 11080,
+    "headCoach": {
+      "firstName": "Will",
+      "lastName": "Green",
+      "email": "golf@princeton.edu",
+      "phone": "609-258-1972"
+    },
+    "assistantCoach": {
+      "firstName": "Lou",
+      "lastName": "Stagner",
+      "email": "ls8312@princeton.edu",
+      "phone": "609-258-1972"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "columbia-university",
+    "collegeName": "Columbia University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 63530,
+    "avgCostAfterAid": 12836,
+    "headCoach": {
+      "firstName": "Rich",
+      "lastName": "Mueller",
+      "email": "rkm2107@columbia.edu",
+      "phone": "212-854-9022"
+    },
+    "assistantCoach": {
+      "firstName": "Ben",
+      "lastName": "Peluso",
+      "email": "bj2359@columbia.edu",
+      "phone": "212-854-9022"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-pennsylvania-penn",
+    "collegeName": "University of Pennsylvania – Penn",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 61710,
+    "avgCostAfterAid": 14851,
+    "headCoach": {
+      "firstName": "Clay",
+      "lastName": "White",
+      "email": "whitecla@upenn.edu",
+      "phone": "215-898-6151"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-virginia",
+    "collegeName": "University of Virginia",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 53626,
+    "avgCostAfterAid": 20507,
+    "headCoach": {
+      "firstName": "Bowen",
+      "lastName": "Sargent",
+      "email": "bms5y@virginia.edu",
+      "phone": "434-982-5730"
+    },
+    "assistantCoach": {
+      "firstName": "Dustin",
+      "lastName": "Groves",
+      "email": "",
+      "phone": "434-982-5730"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "georgetown-university",
+    "collegeName": "Georgetown University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "District of Columbia",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 59957,
+    "avgCostAfterAid": 24570,
+    "headCoach": {
+      "firstName": "Tommy",
+      "lastName": "Hunter",
+      "email": "huntert@georgetown.edu",
+      "phone": "202-687-2442"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "cornell-university",
+    "collegeName": "Cornell University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 61015,
+    "avgCostAfterAid": 29011,
+    "headCoach": {
+      "firstName": "Matt",
+      "lastName": "Baughan",
+      "email": "jmb72@cornell.edu",
+      "phone": "607-254-6532"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-maryland",
+    "collegeName": "University of Maryland",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Maryland",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 38636,
+    "avgCostAfterAid": 17500,
+    "headCoach": {
+      "firstName": "John",
+      "lastName": "Phillips",
+      "email": "jcphilli@umd.edu",
+      "phone": "301-405-8500"
+    },
+    "assistantCoach": {
+      "firstName": "Jimmie",
+      "lastName": "Massie",
+      "email": "jmmassie@umd.edu",
+      "phone": "301-405-8500"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "rutgers-university",
+    "collegeName": "Rutgers University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New Jersey",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 33005,
+    "avgCostAfterAid": 15365,
+    "headCoach": {
+      "firstName": "Rob",
+      "lastName": "Shutte",
+      "email": "rshutte@scarletknights.com",
+      "phone": "732-445-6022"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "united-states-naval-academy",
+    "collegeName": "United States Naval Academy",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Maryland",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 4799,
+    "avgCostAfterAid": 4022,
+    "headCoach": {
+      "firstName": "Jimmy",
+      "lastName": "Stobs",
+      "email": "stobs@usna.edu",
+      "phone": "410-293-8734"
+    },
+    "assistantCoach": {
+      "firstName": "Jimmy",
+      "lastName": "Criscione",
+      "email": "criscion@usna.edu",
+      "phone": "410-293-8734"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "villanova-university",
+    "collegeName": "Villanova University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 59020,
+    "avgCostAfterAid": 34784,
+    "headCoach": {
+      "firstName": "James",
+      "lastName": "Wilkes",
+      "email": "james.wilkes@villanova.edu",
+      "phone": "610-519-4000"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "lehigh-university",
+    "collegeName": "Lehigh University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 57470,
+    "avgCostAfterAid": 32698,
+    "headCoach": {
+      "firstName": "Henry",
+      "lastName": "D’Alberto",
+      "email": "inlugolf@lehigh.edu",
+      "phone": "610-758-5176"
+    },
+    "assistantCoach": {
+      "firstName": "David",
+      "lastName": "Olexson",
+      "email": "inlugolf@lehigh.edu",
+      "phone": "610-758-5176"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-delaware",
+    "collegeName": "University of Delaware",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Delaware",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 36880,
+    "avgCostAfterAid": 18313,
+    "headCoach": {
+      "firstName": "Brendon",
+      "lastName": "Post",
+      "email": "postpga@udel.edu",
+      "phone": "302-831-4006"
+    },
+    "assistantCoach": {
+      "firstName": "Drew",
+      "lastName": "Coble",
+      "email": "coble@udel.edu",
+      "phone": "302-831-4006"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-richmond",
+    "collegeName": "University of Richmond",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 58570,
+    "avgCostAfterAid": 29232,
+    "headCoach": {
+      "firstName": "Adam",
+      "lastName": "Decker",
+      "email": "adecker@richmond.edu",
+      "phone": "804-289-8363"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "penn-state",
+    "collegeName": "Penn State",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 36476,
+    "avgCostAfterAid": 27521,
+    "headCoach": {
+      "firstName": "Mark",
+      "lastName": "Leon",
+      "email": "markleon@psu.edu",
+      "phone": "814-865-4700"
+    },
+    "assistantCoach": {
+      "firstName": "Nick",
+      "lastName": "Ziccardi",
+      "email": "ndz5016@psu.edu",
+      "phone": "814-865-4700"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "colgate-university",
+    "collegeName": "Colgate University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 61966,
+    "avgCostAfterAid": 24489,
+    "headCoach": {
+      "firstName": "JP",
+      "lastName": "Kircher",
+      "email": "JKircher@colgate.edu",
+      "phone": "315-228-7114"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "james-madison-university",
+    "collegeName": "James Madison University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 29564,
+    "avgCostAfterAid": 22431,
+    "headCoach": {
+      "firstName": "Carter",
+      "lastName": "Cheves",
+      "email": "chevesjm@jmu.edu",
+      "phone": "540-568-6693"
+    },
+    "assistantCoach": {
+      "firstName": "Michael",
+      "lastName": "Salazar",
+      "email": "Salazama@jmu.edu",
+      "phone": "915-526-0094"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "united-states-military-academy",
+    "collegeName": "United States Military Academy",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 7326,
+    "avgCostAfterAid": 18623,
+    "headCoach": {
+      "firstName": "Chad",
+      "lastName": "Bagley",
+      "email": "chad.bagley@westpoint.edu",
+      "phone": "845-938-8707"
+    },
+    "assistantCoach": {
+      "firstName": "Neal",
+      "lastName": "Grusczynski",
+      "email": "Neal.Grusczynski@westpoint.edu",
+      "phone": "845-938-3188"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "george-washington-university",
+    "collegeName": "George Washington University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "District of Columbia",
+    "region": "South",
+    "division": "NCAA Division 1",
+    "tuition": 59870,
+    "avgCostAfterAid": 26272,
+    "headCoach": {
+      "firstName": "Chuck",
+      "lastName": "Scheinost",
+      "email": "gwgolf@gwu.edu",
+      "phone": "202-994-5969"
+    },
+    "assistantCoach": {
+      "firstName": "Toks",
+      "lastName": "Pedro",
+      "email": "o.pedro@gwu.edu",
+      "phone": "202-994-3151"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "temple-university",
+    "collegeName": "Temple University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 30602,
+    "avgCostAfterAid": 23108,
+    "headCoach": {
+      "firstName": "Brian",
+      "lastName": "Quinn",
+      "email": "bq@bqgolfacademy.com",
+      "phone": "610-941-9646"
+    },
+    "assistantCoach": {
+      "firstName": "Matt",
+      "lastName": "Teesdale",
+      "email": "matthew.teesdale@temple.edu",
+      "phone": "215-204-2489"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "fordham-university",
+    "collegeName": "Fordham University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 1",
+    "tuition": 56161,
+    "avgCostAfterAid": 35320,
+    "headCoach": {
+      "firstName": "Gary",
+      "lastName": "Murphy",
+      "email": "gmurphy51@fordham.edu",
+      "phone": "718-817-4300"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "west-chester-university-of-pennsylvania",
+    "collegeName": "West Chester University of Pennsylvania",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 22295,
+    "avgCostAfterAid": 13183,
+    "headCoach": {
+      "firstName": "Chris",
+      "lastName": "Merce",
+      "email": "cmerce@wcupa.edu",
+      "phone": "610-436-3235"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "610-436-3235"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "adelphi-university",
+    "collegeName": "Adelphi University",
+    "athleticDeptUrl": "Adelphi University Athletics - Official Athletics Website",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 42475,
+    "avgCostAfterAid": 28993,
+    "headCoach": {
+      "firstName": "David",
+      "lastName": "Mattana",
+      "email": "dmattana@adelphi.edu",
+      "phone": "516-877-3777"
+    },
+    "assistantCoach": {
+      "firstName": "Mason",
+      "lastName": "Rivera",
+      "email": "mrivera@adelphi.edu",
+      "phone": "516-877-3777"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "gannon-university",
+    "collegeName": "Gannon University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 34526,
+    "avgCostAfterAid": 21964,
+    "headCoach": {
+      "firstName": "Scott",
+      "lastName": "Stano",
+      "email": "stano003@gannon.edu",
+      "phone": "814 871-7277"
+    },
+    "assistantCoach": {
+      "firstName": "Brett",
+      "lastName": "Zenewicz",
+      "email": "zenewicz001@gannon.edu",
+      "phone": "814 871-5705"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "mercyhurst-university",
+    "collegeName": "Mercyhurst University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 42680,
+    "avgCostAfterAid": 25704,
+    "headCoach": {
+      "firstName": "Ryan",
+      "lastName": "Nord",
+      "email": "rnord@mercyhurst.edu",
+      "phone": "814-824-2000"
+    },
+    "assistantCoach": {
+      "firstName": "Abigail",
+      "lastName": "Vietmeier",
+      "email": "",
+      "phone": "814-824-2000"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "emory-henry-college",
+    "collegeName": "Emory & Henry College",
+    "athleticDeptUrl": "GoWasps.com | The Official Site of Emory & Henry College Athletics - Emory & Henry",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 2",
+    "tuition": 35165,
+    "avgCostAfterAid": 19053,
+    "headCoach": {
+      "firstName": "David",
+      "lastName": "Tayloe",
+      "email": "dmtayloe@emoryhenry.edu",
+      "phone": "276-944-6115"
+    },
+    "assistantCoach": {
+      "firstName": "Hunter",
+      "lastName": "Farley",
+      "email": "",
+      "phone": "276-944-4121"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "millersville-university-of-pennsylvania",
+    "collegeName": "Millersville University of Pennsylvania",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 22226,
+    "avgCostAfterAid": 19504,
+    "headCoach": {
+      "firstName": "Scott",
+      "lastName": "Vandegrift",
+      "email": "scott.vandegrift@millersville.edu",
+      "phone": "717-871-7696"
+    },
+    "assistantCoach": {
+      "firstName": "Sharon",
+      "lastName": "Barley",
+      "email": "Shar.Barley@millersville.edu",
+      "phone": "717-871-7696"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "indiana-university-of-pennsylvania",
+    "collegeName": "Indiana University of Pennsylvania",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 18897,
+    "avgCostAfterAid": 20201,
+    "headCoach": {
+      "firstName": "Dan",
+      "lastName": "Braun",
+      "email": "dbraun@iup.edu",
+      "phone": "724-388-5250"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "724-357-2100"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "bloomsburg-university-of-pennsylvania",
+    "collegeName": "Bloomsburg University of Pennsylvania",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 22806,
+    "avgCostAfterAid": 18792,
+    "headCoach": {
+      "firstName": "Chad",
+      "lastName": "Anthony",
+      "email": "canthony@bloomu.edu",
+      "phone": "570-389-4316"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "shepherd-university",
+    "collegeName": "Shepherd University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "West Virginia",
+    "region": "South",
+    "division": "NCAA Division 2",
+    "tuition": 18224,
+    "avgCostAfterAid": 11109,
+    "headCoach": {
+      "firstName": "Chuck",
+      "lastName": "Ingram",
+      "email": "cingram@shepherd.edu",
+      "phone": "301-465-9154"
+    },
+    "assistantCoach": {
+      "firstName": "Keith",
+      "lastName": "Rader",
+      "email": "krader@shepherd.edu",
+      "phone": "304-876-5000"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "clarion-university-of-pennsylvania",
+    "collegeName": "Clarion University of Pennsylvania",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 2",
+    "tuition": 16102,
+    "avgCostAfterAid": 13992,
+    "headCoach": {
+      "firstName": "Marty",
+      "lastName": "Rinker",
+      "email": "wrinker@pennwest.edu",
+      "phone": "814-393-1884"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "814-393-1884"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "carnegie-mellon-university",
+    "collegeName": "Carnegie Mellon University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 58924,
+    "avgCostAfterAid": 37846,
+    "headCoach": {
+      "firstName": "Dan",
+      "lastName": "Rodgers",
+      "email": "rodgersd@andrew.cmu.edu",
+      "phone": "412-268-2213"
+    },
+    "assistantCoach": {
+      "firstName": "TY",
+      "lastName": "Jones",
+      "email": "tylerj@andrew.cmu.edu",
+      "phone": "412-268-2213"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-rochester",
+    "collegeName": "University of Rochester",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 59378,
+    "avgCostAfterAid": 31171,
+    "headCoach": {
+      "firstName": "Dan",
+      "lastName": "Wesley",
+      "email": "dwesley@sports.rochester.edu",
+      "phone": "585-275-7102"
+    },
+    "assistantCoach": {
+      "firstName": "Ben",
+      "lastName": "Harmon",
+      "email": "",
+      "phone": "585-275-7102"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "new-york-university",
+    "collegeName": "New York University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 56500,
+    "avgCostAfterAid": 39565,
+    "headCoach": {
+      "firstName": "Katie",
+      "lastName": "Rudolph",
+      "email": "kbr5938@nyu.edu",
+      "phone": "212-998-2049"
+    },
+    "assistantCoach": {
+      "firstName": "Daniel",
+      "lastName": "Moneymaker",
+      "email": "drm9150@nyu.edu",
+      "phone": "212-998-2049"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "washington-lee-university",
+    "collegeName": "Washington & Lee University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 59380,
+    "avgCostAfterAid": 27417,
+    "headCoach": {
+      "firstName": "Pete",
+      "lastName": "Gyscek",
+      "email": "gyscekp@wlu.edu",
+      "phone": "540-458-8389"
+    },
+    "assistantCoach": {
+      "firstName": "Jane",
+      "lastName": "Hopkinson-Wood",
+      "email": "jhopkinson-wood@wlu.edu",
+      "phone": "540-458-8391"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "swarthmore-college",
+    "collegeName": "Swarthmore College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 56056,
+    "avgCostAfterAid": 20780,
+    "headCoach": {
+      "firstName": "Tana",
+      "lastName": "Thomas",
+      "email": "tthomas4@swarthmore.edu",
+      "phone": "610-957-6173"
+    },
+    "assistantCoach": {
+      "firstName": "Sarah",
+      "lastName": "Braendel",
+      "email": "",
+      "phone": "610-328-8218"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "hamilton-college",
+    "collegeName": "Hamilton College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 59970,
+    "avgCostAfterAid": 26296,
+    "headCoach": {
+      "firstName": "Lauren",
+      "lastName": "Cupp",
+      "email": "lcupp@hamilton.edu",
+      "phone": "315-859-4594"
+    },
+    "assistantCoach": {
+      "firstName": "Dave",
+      "lastName": "Abdou",
+      "email": "dabdou@hamilton.edu",
+      "phone": "315-859-4765"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "dickinson-college",
+    "collegeName": "Dickinson College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 58733,
+    "avgCostAfterAid": 15554,
+    "headCoach": {
+      "firstName": "Darwin",
+      "lastName": "Breaux",
+      "email": "breaux@dickinson.edu",
+      "phone": "717-245-1644"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "717-245-1364"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "franklin-marshall-college",
+    "collegeName": "Franklin & Marshall College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 63406,
+    "avgCostAfterAid": 30182,
+    "headCoach": {
+      "firstName": "Deryl",
+      "lastName": "Denlinger",
+      "email": "deryl.denlinger@fandm.edu",
+      "phone": "717-629-7272"
+    },
+    "assistantCoach": {
+      "firstName": "Andy",
+      "lastName": "Tompos",
+      "email": "andrew.tompos@fandm.edu",
+      "phone": "717-358-3857"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "gettysburg-college",
+    "collegeName": "Gettysburg College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 59960,
+    "avgCostAfterAid": 26853,
+    "headCoach": {
+      "firstName": "Jason",
+      "lastName": "Badecki",
+      "email": "jbadecki@gettysburg.edu",
+      "phone": "609-980-6167"
+    },
+    "assistantCoach": {
+      "firstName": "Brian",
+      "lastName": "Bisacre",
+      "email": "bbisacre@gettysburg.edu",
+      "phone": "717-337-6406"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "clarkson-university",
+    "collegeName": "Clarkson University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 56920,
+    "avgCostAfterAid": 36674,
+    "headCoach": {
+      "firstName": "Tyler",
+      "lastName": "Cline",
+      "email": "clinekt@clarkson.edu",
+      "phone": "315-268-3700"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "christopher-newport-university",
+    "collegeName": "Christopher Newport University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 27790,
+    "avgCostAfterAid": 25031,
+    "headCoach": {
+      "firstName": "Jamie",
+      "lastName": "Coleman",
+      "email": "james.coleman@cnu.edu",
+      "phone": "757-289-6972"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "757-594-7000"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-lynchburg",
+    "collegeName": "University of Lynchburg",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 33500,
+    "avgCostAfterAid": 24265,
+    "headCoach": {
+      "firstName": "Allen",
+      "lastName": "Smith",
+      "email": "smith_a@lynchburg.edu",
+      "phone": "919-612-8812"
+    },
+    "assistantCoach": {
+      "firstName": "Michael",
+      "lastName": "Veverka",
+      "email": "veverka_mc@lynchburg.edu",
+      "phone": "434-544-8968"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "skidmore-college",
+    "collegeName": "Skidmore College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 60302,
+    "avgCostAfterAid": 31730,
+    "headCoach": {
+      "firstName": "Tom",
+      "lastName": "Oppedisano",
+      "email": "toppedis@skidmore.edu",
+      "phone": "518-881-5525"
+    },
+    "assistantCoach": {
+      "firstName": "Scott",
+      "lastName": "Berliner",
+      "email": "sberline@skidmore.edu",
+      "phone": "518-580-5392"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "st-lawrence-university",
+    "collegeName": "St. Lawrence University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 60220,
+    "avgCostAfterAid": 28020,
+    "headCoach": {
+      "firstName": "Dave",
+      "lastName": "Clausen",
+      "email": "dclausen@stlawu.edu",
+      "phone": "315-229-5423"
+    },
+    "assistantCoach": {
+      "firstName": "Maren",
+      "lastName": "Aikens",
+      "email": "meaikens@stlawu.edu",
+      "phone": "315-229-5423"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "grove-city-college",
+    "collegeName": "Grove City College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 19310,
+    "avgCostAfterAid": 21724,
+    "headCoach": {
+      "firstName": "Brad",
+      "lastName": "Isles",
+      "email": "bcisles@gcc.edu",
+      "phone": "724-450-1524"
+    },
+    "assistantCoach": {
+      "firstName": "Amy",
+      "lastName": "Smith",
+      "email": "smithar@gcc.edu",
+      "phone": "724-458-2121"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "wilkes-university",
+    "collegeName": "Wilkes University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 39914,
+    "avgCostAfterAid": 29807,
+    "headCoach": {
+      "firstName": "Guy",
+      "lastName": "Rothery",
+      "email": "guy.rothery@wilkes.edu",
+      "phone": "570-237-2777"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "570-408-4020"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "rutgers-university-camden",
+    "collegeName": "Rutgers University – Camden",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New Jersey",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 32299,
+    "avgCostAfterAid": 12755,
+    "headCoach": {
+      "firstName": "Robert",
+      "lastName": "Cardea",
+      "email": "rcardea@camden.rutgers.edu",
+      "phone": "856-225-2733"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "856-225-2780"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "st-john-fisher-college",
+    "collegeName": "St. John Fisher College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "New York",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 36352,
+    "avgCostAfterAid": 26720,
+    "headCoach": {
+      "firstName": "Bob",
+      "lastName": "Simms",
+      "email": "rsimms@sjfc.edu",
+      "phone": "585-385-8420"
+    },
+    "assistantCoach": {
+      "firstName": "Jeff",
+      "lastName": "March",
+      "email": "jmarch@sjfc.edu",
+      "phone": "585-385-8309"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "university-of-scranton",
+    "collegeName": "University of Scranton",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 48462,
+    "avgCostAfterAid": 34136,
+    "headCoach": {
+      "firstName": "Ed",
+      "lastName": "Karpovich",
+      "email": "edward.karpovich@scranton.edu",
+      "phone": "570-941-7441"
+    },
+    "assistantCoach": {
+      "firstName": "Carl",
+      "lastName": "Danzig",
+      "email": "carl.danzig@scranton.edu",
+      "phone": "570-941-7478"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "washington-jefferson-college",
+    "collegeName": "Washington & Jefferson College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 50192,
+    "avgCostAfterAid": 26460,
+    "headCoach": {
+      "firstName": "Matt",
+      "lastName": "Kluck",
+      "email": "mkluck@washjeff.edu",
+      "phone": "724-503-1001 ext. 3070"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "724-503-1001"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "muhlenberg-college",
+    "collegeName": "Muhlenberg College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 55830,
+    "avgCostAfterAid": 26983,
+    "headCoach": {
+      "firstName": "Billy",
+      "lastName": "Hallman",
+      "email": "williamhallman@muhlenberg.edu",
+      "phone": "484-664-4090"
+    },
+    "assistantCoach": {
+      "firstName": "Mark",
+      "lastName": "Henry",
+      "email": "",
+      "phone": "484-664-3232"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "catholic-university-of-america",
+    "collegeName": "Catholic University of America",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "District of Columbia",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 52156,
+    "avgCostAfterAid": 33452,
+    "headCoach": {
+      "firstName": "Ed",
+      "lastName": "Dolan",
+      "email": "dolane@cua.edu",
+      "phone": "202-319-5562"
+    },
+    "assistantCoach": {
+      "firstName": "Lauren",
+      "lastName": "Lombardo",
+      "email": "lombardol@cua.edu",
+      "phone": "202-319-5286"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "randolph-macon-college",
+    "collegeName": "Randolph-Macon College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 45150,
+    "avgCostAfterAid": 25969,
+    "headCoach": {
+      "firstName": "Jay",
+      "lastName": "Albaugh",
+      "email": "JayAlbaugh@rmc.edu",
+      "phone": "804-221-8801"
+    },
+    "assistantCoach": {
+      "firstName": "Joe",
+      "lastName": "Lostumbo",
+      "email": "",
+      "phone": "804-221-8801"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "roanoke-college",
+    "collegeName": "Roanoke College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 48330,
+    "avgCostAfterAid": 27541,
+    "headCoach": {
+      "firstName": "Will",
+      "lastName": "Abdi",
+      "email": "abdi@roanoke.edu",
+      "phone": "540-375-2338"
+    },
+    "assistantCoach": {
+      "firstName": "Kristin",
+      "lastName": "Hearp",
+      "email": "hearp@roanoke.edu",
+      "phone": "540-375-2338"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "allegheny-college",
+    "collegeName": "Allegheny College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NCAA Division 3",
+    "tuition": 52530,
+    "avgCostAfterAid": 23617,
+    "headCoach": {
+      "firstName": "Jeff",
+      "lastName": "Groff",
+      "email": "jgroff@allegheny.edu",
+      "phone": "814-332-2811"
+    },
+    "assistantCoach": {
+      "firstName": "Abby",
+      "lastName": "Sorensen",
+      "email": "asorensen@allegheny.edu",
+      "phone": "814-392-2078"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "shenandoah-university",
+    "collegeName": "Shenandoah University",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Virginia",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 34490,
+    "avgCostAfterAid": 29380,
+    "headCoach": {
+      "firstName": "Scott",
+      "lastName": "Singhass",
+      "email": "ssinghas@su.edu",
+      "phone": "540-535-3560"
+    },
+    "assistantCoach": {
+      "firstName": "Scott",
+      "lastName": "Romine",
+      "email": "sromine10@yahoo.com",
+      "phone": "540-535-3560"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "mcdaniel-college",
+    "collegeName": "McDaniel College",
+    "athleticDeptUrl": "Athletic Dept",
+    "state": "Maryland",
+    "region": "South",
+    "division": "NCAA Division 3",
+    "tuition": 46336,
+    "avgCostAfterAid": 20379,
+    "headCoach": {
+      "firstName": "Scott",
+      "lastName": "Moyer",
+      "email": "jmoyer@mcdaniel.edu",
+      "phone": "410-848-7667"
+    },
+    "assistantCoach": {
+      "firstName": "Dell",
+      "lastName": "Grieser",
+      "email": "dell.grieser@mcdaniel.edu",
+      "phone": "410-848-7667"
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  },
+  {
+    "id": "point-park-university",
+    "collegeName": "Point Park University",
+    "athleticDeptUrl": "Student Life | Point Park University",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "division": "NAIA",
+    "tuition": 35610,
+    "avgCostAfterAid": 24209,
+    "headCoach": {
+      "firstName": "Max",
+      "lastName": "Kaminsky",
+      "email": "max.kaminsky@pointpark.edu",
+      "phone": "412-392-3844"
+    },
+    "assistantCoach": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    "tracking": {
+      "validated": "",
+      "dateValidated": "",
+      "dateEmailSent": "",
+      "emailCount": 0,
+      "datePhoneCall": "",
+      "phoneCount": 0,
+      "followUpDate": "",
+      "visitDate": "",
+      "visitFollowUpDate": ""
+    }
+  }
+]
